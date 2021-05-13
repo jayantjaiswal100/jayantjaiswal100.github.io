@@ -50,6 +50,7 @@ header {
     font-family: Lato, Arial, sans-serif
 }
 
+
 h1 {
     font-size: 100px;
     text-align: center;
@@ -90,6 +91,7 @@ html {
 
     .intro {
         font-size: 15px
+        
     }
 
     h4 {
